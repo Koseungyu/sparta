@@ -58,13 +58,11 @@
         $(document).ready(function () {
             $.ajax({
                 type: "GET",
-                url: "http://spartacodingclub.shop/sparta_api/weather/seoul",
+                url: "http://spartacodingclub.shop/sparta_api/weather/incheon",
                 data: {},
                 success: function (response) {
                     let temp = response['temp']
                     $("#temperature").text(temp);
-
-
                 }
             })
         });
