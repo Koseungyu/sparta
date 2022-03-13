@@ -5,14 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="32390ff4-5617-436c-a1d0-5cc2ae8e1b51" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/ajax01.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ajax02.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ajax03.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jquery01.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prac.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +74,7 @@
       <workItem from="1647059865704" duration="1769000" />
       <workItem from="1647091993654" duration="757000" />
       <workItem from="1647100353442" duration="75000" />
-      <workItem from="1647133403632" duration="12637000" />
+      <workItem from="1647133403632" duration="13113000" />
     </task>
     <servers />
   </component>
